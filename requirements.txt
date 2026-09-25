@@ -165,3 +165,4 @@ zstandard==0.25.0
 rapidocr-onnxruntime
 Pillow
 authlib>=1.3.0
+slowapi>=0.1.9
