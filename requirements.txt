@@ -168,4 +168,5 @@ Pillow
 authlib>=1.3.0
 slowapi>=0.1.9
 pandas>=2.0.0
+pytesseract
 itsdangerous
